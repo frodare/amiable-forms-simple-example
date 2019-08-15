@@ -1,11 +1,11 @@
 {
   "name": "simple-amiable-forms-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic amiable-forms example demonstrating Form, useForm, useField, useSubmit and useFieldValue",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "amiable-forms": "0.3.3",
+    "amiable-forms": "0.3.4",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.0.1"
